@@ -1,0 +1,8 @@
+TOKEN = "5633464128:AAHtbzkwmJ5jah7DWpYqDL5m_UQv42aFLWQ"
+bot = telebot.TeleBot(TOKEN)
+
+keys = {
+    'биткоин': 'BTC',
+    'эфириум': 'ETH',
+    'доллар': 'USD',
+}
